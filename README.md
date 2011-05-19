@@ -1,0 +1,1 @@
+# EskiMag.sk
