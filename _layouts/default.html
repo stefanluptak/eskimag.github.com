@@ -1,0 +1,23 @@
+<!doctype html>
+
+{% include head.html %}
+
+<body>
+
+  <div class="container"> 
+    {% if page.index %}
+      {% include head_index.html %}
+    {% else %}
+      {% include head_post.html %}
+    {% endif %}
+
+    <hr>
+
+    {{content}}
+
+  </div>
+  
+  {% include js.html %}
+
+</body>
+</html>
