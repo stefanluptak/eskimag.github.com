@@ -5,15 +5,11 @@
 <body>
 
   <div class="container"> 
-    {% if page.index %}
-      {% include head_index.html %}
-    {% else %}
-      {% include head_post.html %}
-    {% endif %}
+    {% include head_post.html %}
 
     <hr>
 
-    {{ page.title }}
+    <h1>{{ page.title }}</h1>
 
     {{content}}
 
