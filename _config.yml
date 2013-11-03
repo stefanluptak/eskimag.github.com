@@ -1,7 +1,0 @@
-permalink: pretty
-markdown: kramdown
-kramdown:
-  use_coderay: true
-  coderay:
-    coderay_css: class
-    coderay_line_numbers:
