@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/eskimag
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://eskimag.sk
+  * I am eskimag (https://keybase.io/eskimag) on keybase.
+  * I have a public key with fingerprint D7DF 3426 8D5A 3781 3F8B  5054 7128 89AF 8B9F 420D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "d7df34268d5a37813f8b5054712889af8b9f420d",
+            "host": "keybase.io",
+            "key_id": "712889af8b9f420d",
+            "kid": "0101933b865bd3022cf590c0c42938b5c0de81fddbd88db227c1847c4a52950883df0a",
+            "uid": "ed049035067e479dfb6a11e4fd93ea19",
+            "username": "eskimag"
+        },
+        "service": {
+            "hostname": "eskimag.sk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1429526775,
+    "expire_in": 157680000,
+    "prev": "3135bc80fa57331ebc97749a116ef3ea824378af7310eab3396feb6283648deb",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIfAnicbVJbSFRBGF5r7WKYii+apnWCMFl1zplzmbNoWNFN7UKwSWQt55yZsx7M
+3XV31UQMgsgQSSUxLS0IkS6aFN0syDQxzR4KMkXQsIcgFVQQM7RsjtRD0LwM/zff
+9/3zzfw9oastIUFRVW+DJ+as94IGutIKLQ5++Hspo3pwCWMvZfLIyqYbbhfxeX2G
+O8DYGSxhHfKciLCgQAmxUEeqAAReYjmEZIVWss5zADM2JtfjNxXURlX8JNnwUIwW
+TgNT9D/8vJUDwAJWhlBFoqBiCDhO0wUZaEDjORnSXhrABLE6xipGCKscJ2ks4iWN
+VwROFgBCEOtAoXaFK3YEA14GUACiRHhJxroqKixLeB3LkCisbBL9xOdW8onJ9ucZ
++YqLKbMxFCwyNGK+gBnkX0KyP48KvT5PwKN5zlA8NxDw2k1ZoMRr8oqJ6vzj4FQN
+N6ZvSAVFxOc3PG7GzlKmFjBMS5bmEjhRkgQbQ856DR9xGiZDkEQE6DLbkCJqCVko
+qBoCuiJIELJE1WRJ4mWaRiQ6zYI4nn6IokuQBURRIZRFnagih6DII0xUxsxU4PYw
+dkivSUPaGb/hciuBQh9hyrpf5VgtQSGWNcGrzCmwhKwP/zsbj9vXLu9unIqOPf7Q
+Vn5g8dDdhpxdYY60mJ/XTw/Ya144R29+S9o4eHl+cnF/TWmmw+V4M2UNb81JbHjQ
+13JuaKY/dnt/TchwVfk056ibGi/b1N3VkpUe0du6JeZC/cVrz4ai3seNzIGeG5s7
+msY/pbVFaQsp9blPllKr464cK89q/xG9fB72hTePjlWf2GDtiosYaHreHPmltrjS
+Nll0lEmKX6y7NFuRMHLrQ/XiVf9gy97szxn72vakxGXMVy0c/PX69vSdjlMfC1D6
+7Ghv2eHW4fvrHJUVL7OTt+04EtYc9WgmI7JRT000ajPr2Kr5zISCrq3v+p6O1e0M
+7QadJyfE+KXRztKvvwFYVC1x
+=Hi9t
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/eskimag
+
+==================================================================
